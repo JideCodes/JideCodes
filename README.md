@@ -2,6 +2,7 @@
 - 👀 I’m interested in Wed Development
 - 🌱 I’m currently learning Frontend Dev
 - 💞️ I’m looking to collaborate on Any frontend dev projects that can improve my skills
+- 💥 My proficiencies include HTML5, CSS3, Bootstrap and Sass
 - 📫 How to reach me ajideyusuf11@gmail.com or on whatsapp via 09015406115
 
 <!---
